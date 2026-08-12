@@ -73,6 +73,20 @@ With **12+ years of experience** across web development, application security, i
 
 # 🔥 Featured Projects
 
+## 🧱 waflint
+
+**Lint and test AWS WAFv2 rules offline — no AWS account, no deploy.**
+
+A CLI tool that catches broken WAF rules before they ship: RE2 regex validation, WCU (Web ACL Capacity Unit) estimation, and real HTTP request evaluation against your rules — entirely offline.
+
+- 🔍 Static analysis — catches AWS-rejected regex, duplicate priorities, missing decode transformations
+- 🧪 Request testing — evaluates real `.http` samples against your rules and shows *why* they matched
+- 📊 WCU estimation before you hit AWS's capacity ceiling
+- ⚙️ Ships as a GitHub Action for CI-gated WAF rule reviews
+- 🔒 Single static binary, zero dependencies, zero network calls
+
+👉 **[View Repository](https://github.com/kapoordeepanshu/waflint)**
+
 ## 🤖 DocsChatAI
 
 **Self-hosted RAG chatbot for software documentation.**
