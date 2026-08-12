@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Deepanshu Kapoor
 
-### Full-Stack Developer · AI Engineer · Security Enthusiast · DevOps
+### Full-Stack Dev | 12+ Yrs | AI & CI/CD Integration
 
 I build **secure, high-performance web applications**, AI-powered tools, and security-focused infrastructure.
 
