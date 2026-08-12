@@ -2,9 +2,11 @@
 
 ### Full-Stack Developer · AI Engineer · Security Enthusiast · DevOps
 
-I build **secure, high-performance web applications**, AI-powered products, developer tools, and security-focused infrastructure.
+I build **secure, high-performance web applications**, AI-powered tools, and security-focused infrastructure.
 
-With **12+ years of experience** across web development, application security, infrastructure, and automation, I enjoy turning complex problems into reliable and maintainable software.
+With **12+ years of experience** across web development, application security, infrastructure, and automation, I enjoy turning complex problems into reliable, maintainable software — and I'm currently deepening my focus on Python (FastAPI) and applied AI.
+
+> Most of my client and production work lives in private repos — the projects below are personal builds and open-source experiments.
 
 ---
 
