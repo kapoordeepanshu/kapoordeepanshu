@@ -103,20 +103,6 @@ A developer-focused AI chatbot that allows software vendors to embed documentati
 
 ---
 
-## 🔐 Secure REST API — Node.js / TypeScript
-
-A security-focused REST API implementation demonstrating modern backend development and secure API practices.
-
-* TypeScript
-* Node.js
-* REST architecture
-* Authentication & authorization
-* Secure API design
-
-👉 **[View Repository](https://github.com/kapoordeepanshu/Secure-Rest-API-Node-Typescript)**
-
----
-
 ## 🕵️ Tarsier
 
 **Passive network asset intelligence powered by Suricata.**
